@@ -1,0 +1,13 @@
+.container-fluid{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.header{
+  background-color: #61e22b52;
+  height: 30px;
+  text-align: center;
+}
+
+.nav-bar .Nav_link{
+  padding: 20px;
+}

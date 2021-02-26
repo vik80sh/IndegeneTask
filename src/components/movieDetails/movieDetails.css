@@ -1,0 +1,9 @@
+.movie-body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px;
+}
+.movie-body .card{
+    margin-top: 20px;
+}

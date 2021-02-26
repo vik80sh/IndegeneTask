@@ -1,0 +1,27 @@
+.home-wrapper{
+    padding-top: 10px;
+}
+.home-wrapper .input-handler{
+    display: flex;
+    justify-content: center;
+}
+.home-wrapper .input-handler input{
+    width: 30%;
+    margin:0 5px;
+}
+.home-wrapper .home-body{
+    width: 90%;
+    margin: 20px auto;
+}
+.home-body .movie-list{
+    padding: 10px;
+}
+.home-body .search-movie{
+    text-align: center;
+    color: crimson;
+    font-size: 24px;
+}
+.home-wrapper .load-more{
+    width: 150px;
+    margin: 20px auto;
+}
